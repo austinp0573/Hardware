@@ -16,7 +16,7 @@ These projects reflect my interests in embedded systems, PCB design, and hardwar
 
 ### 🔹 [Quectel LC86G-PA Breakout V2.1](./Quectel-LC86G-Breakout-V2.1)
 A compact GNSS breakout board designed for integration with microcontrollers.  
-Includes backup battery circuitry, filtered power input, UART/I2C headers, and ESD protection.
+Includes backup battery circuitry, filtered power input, UART headers, and ESD protection.
 
 ---
 
