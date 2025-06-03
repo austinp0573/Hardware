@@ -45,7 +45,7 @@ You are free to modify, manufacture, or redistribute with proper attribution.
 
 ## 🙏 Acknowledgments
 
-Special thanks to [@roquemt](https://github.com/roquemt) — his guidance and insight were instrumental in helping me bring this project to life as my first successful PCB design.
+Special thanks to [@roquemt](https://github.com/roquemt) — his guidance and insight were instrumental in helping me bring my first successful PCB design project to life.
 
 Also, sincere appreciation to [StuartProjects](https://github.com/StuartsProjects) for the wealth of open-source work related to GNSS and RF. In particular, the [GPS performance comparisons](https://github.com/StuartsProjects/GPSTutorial/tree/master/GPS%20performance%20comparisons) repo was a valuable reference throughout development.
 
