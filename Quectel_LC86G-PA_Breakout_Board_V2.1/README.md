@@ -7,7 +7,7 @@ Designed for use with microcontrollers (3.3V logic), prototyping platforms, or e
 
 
 
-## 🔧 Features
+## Features
 
 - Supports UART communication
 - Integrated CR1225 battery backup for "warm start"
@@ -17,7 +17,7 @@ Designed for use with microcontrollers (3.3V logic), prototyping platforms, or e
 
 
 
-## 📁 What's Included
+## What's Included
 
 - `*.eprj`: EasyEDA Pro source project file
 - `*.png`: Board views and schematic preview
@@ -27,7 +27,7 @@ Designed for use with microcontrollers (3.3V logic), prototyping platforms, or e
 
 
 
-## 🚀 Getting Started
+## Getting Started
 
 **Input voltage:** 3.3V regulated  
 **UART output:** Default baud rate is 9600 bps  
@@ -36,14 +36,14 @@ Designed for use with microcontrollers (3.3V logic), prototyping platforms, or e
 
 
 
-## 📜 License
+## License
 
 This project is licensed under the **CERN Open Hardware License v2**.  
 You are free to modify, manufacture, or redistribute with proper attribution.
 
 
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 Special thanks to [@roquemt](https://github.com/roquemt) — his guidance and insight were instrumental in helping me bring my first successful PCB design project to life.
 
@@ -52,7 +52,7 @@ Also, sincere appreciation to [StuartProjects](https://github.com/StuartsProject
 
 
 
-## ❓Need Help?
+## Need Help?
 
 Feel free to:
 - [Open an issue](https://github.com/austinp0573/Hardware/issues) on this repo
